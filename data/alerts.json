@@ -1,16 +1,15 @@
 {
-  "alerts": [
-    {
-      "id": "ticket_price_postponed_001",
-      "title": "Ticket price hike postponed",
-      "body": "The planned increase in metro ticket prices has been postponed. Current prices remain in effect until further notice.",
-      "type": "INFO",
-      "severity": "MEDIUM",
-      "lines": [],
-      "stations": [],
-      "timestamp": 1745884800,
-      "expires_at": 0,
-      "active": true
-    }
-  ]
+  "id": "news_01",
+  "title": "Metrorex fare increase postponed by 60 days",
+  "title_ro": "Majorarea tarifelor Metrorex amânată cu 60 de zile",
+  "body": "Radu Miruță (USR), interim Minister of Transport, has postponed the planned Metrorex fare increase by 60 days. The measure was originally approved by former Transport Minister Ciprian Șerban (PSD). Authorities are currently exploring alternatives to potentially cancel the price increase altogether.",
+  "body_ro": "Radu Miruță (USR), ministrul interimar al Transporturilor, a amânat cu 60 de zile majorarea tarifelor Metrorex. Măsura fusese aprobată anterior de fostul ministru al Transporturilor, Ciprian Șerban (PSD). În prezent, autoritățile analizează alternative pentru a anula posibil această creștere de preț.",
+  "type": "INFO",
+  "severity": "MEDIUM",
+  "lines": [],
+  "stations": [],
+  "date": "2026-04-29",
+  "active_from": "2026-04-30",
+  "expires_at": "2026-05-04",
+  "active": true
 }
