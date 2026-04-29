@@ -1,1 +1,16 @@
-
+{
+  "alerts": [
+    {
+      "id": "ticket_price_postponed_001",
+      "title": "Ticket price hike postponed",
+      "body": "The planned increase in metro ticket prices has been postponed. Current prices remain in effect until further notice.",
+      "type": "INFO",
+      "severity": "MEDIUM",
+      "lines": [],
+      "stations": [],
+      "timestamp": 1745884800,
+      "expires_at": 0,
+      "active": true
+    }
+  ]
+}
