@@ -1,0 +1,29 @@
+{
+  "_comment": "Metro alerts feed for MetrouBUC app. Edit this file and commit to update alerts in the app — no app release needed.",
+  "_schema": {
+    "id":          "Unique string ID — never reuse an old ID",
+    "title":       "Short title shown in notification (keep under 60 chars)",
+    "body":        "Full description shown in the alerts list",
+    "type":        "CLOSURE | DELAY | DISRUPTION | NEW_STATION | SCHEDULE_CHANGE | MAINTENANCE | INFO",
+    "severity":    "HIGH | MEDIUM | LOW",
+    "lines":       "Array of affected line codes, e.g. [\"M1\", \"M2\"]. Use [] for all lines.",
+    "stations":    "Array of affected station names. Use [] if not station-specific.",
+    "timestamp":   "Unix timestamp (seconds) — when the alert was created",
+    "expires_at":  "Unix timestamp (seconds) — when to auto-hide the alert. 0 = never expires.",
+    "active":      "false to hide without deleting"
+  },
+  "alerts": [
+    {
+      "id": "sample_info_001",
+      "title": "Welcome to Service Alerts",
+      "body": "This is where you'll see live updates about station closures, delays, new stations, and service disruptions. Check back here whenever you plan your journey.",
+      "type": "INFO",
+      "severity": "LOW",
+      "lines": [],
+      "stations": [],
+      "timestamp": 1714000000,
+      "expires_at": 0,
+      "active": true
+    }
+  ]
+}
