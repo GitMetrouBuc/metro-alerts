@@ -2,10 +2,10 @@
   "alerts": [
     {
       "id": "news_01",
-      "title": "Metrorex fare increase postponed until July",
-      "title_ro": "Majorarea tarifelor Metrorex amânată până în iulie",
-      "body": "Radu Miruță (USR), interim Minister of Transport, has postponed the planned Metrorex fare increase by 60 days to allow for further analysis and identification of alternative funding sources. The increase, originally approved by former Transport Minister Ciprian Șerban (PSD), would have raised ticket prices by approximately 40% starting May 1.",
-      "body_ro": "Radu Miruță (USR), ministrul interimar al Transporturilor, a amânat cu 60 de zile majorarea tarifelor Metrorex pentru a permite o analiză suplimentară și identificarea unor surse alternative de finanțare. Creșterea, aprobată inițial de fostul ministru al Transporturilor, Ciprian Șerban (PSD), ar fi dus la o majorare de aproximativ 40% a prețului biletelor începând cu 1 mai.",
+      "title": "Metrorex fare increase postponed",
+      "title_ro": "Majorarea tarifelor Metrorex amânată",
+      "body": "The planned Metrorex fare increase has been postponed by 60 days. Ticket prices would have risen by ~40% to 7 RON per trip starting May 1.",
+      "body_ro": "Majorarea tarifelor Metrorex a fost amânată cu 60 de zile. Prețul unei călătorii ar fi crescut cu ~40%, până la 7 lei, începând cu 1 mai.",
       "type": "INFO",
       "severity": "MEDIUM",
       "lines": [],
